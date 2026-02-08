@@ -68,8 +68,8 @@ It reflects the type of problem-solving and structure expected in production fro
 
 ### Frontend
 - JavaScript (ES6+)
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ### Libraries & APIs
 - Leaflet.js
